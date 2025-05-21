@@ -1,8 +1,2 @@
-https://www.space.com/24870-what-is-space.html
-
-What is dark matter?
-What types of radiation exist in the emptier regions of space, and what are their sources?
-What is the cosmic microwave background (CMB), and why is it significant in our understanding of the universe's origins?
-What are the main mysteries surrounding dark matter and dark energy that scientists are still trying to understand?
-What did Albert Einstein predict about black holes, and how do gravitational waves relate to his theories of space and time?
-What are stars vs planets vs asteroids vs comets?
+Input: Any website URL
+ask natural language questions based on the content extracted from that page
